@@ -14,6 +14,6 @@ spring:
 
 mediastack:
   uri: ${MEDIASTACK_URI}
-  api_key: ${MEDIASTACK_API_KEY}
+  api-key: ${MEDIASTACK_API_KEY}
   countries: us
   limit: 25
